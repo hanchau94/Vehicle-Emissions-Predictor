@@ -17,11 +17,5 @@ Our project employs various machine learning techniques to process and analyze v
 - **Description:** Detailed information about the dataset used, including its source, structure, and any preprocessing steps.
 - **Access:** [Link to the dataset or instructions on how to obtain it]
 
-## Installation
 
-To get started with this project, follow these installation steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repository.git
 
