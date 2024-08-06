@@ -1,4 +1,4 @@
-# CO2 Emission Assessment Project
+# CO2 Emission Assessment
 
 Welcome to our project focused on assessing CO2 emissions from gasoline-powered light-duty vehicles. In an era where environmental sustainability is paramount, understanding and regulating vehicle emissions is critical. Our project leverages machine learning techniques to analyze vehicle data, predict CO2 emissions, and compare them against predefined thresholds.
 
