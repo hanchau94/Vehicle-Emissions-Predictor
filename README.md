@@ -37,5 +37,5 @@ The accuracy score and time taken for training and prediction varies for each mo
 - Neural network: 97.06% and 1.43 seconds
 - Naive Bayes: 96.33% and 0.01 seconds
 
-=> The Random Forest model demonstrated the highest accuracy score and f1-scores for both classes, making it the top performer. However, if interpretability is a prior- ity, Logistic Regression also showed strong performance and might be a better option. Additionally, the logistic regression model was the fastest to train and predict, making it a good choice for time efficiency. Considering the trade-offs between accuracy, interpretability, and time efficiency, the logistic re- gression model could be a suitable option.
+=> The Random Forest model demonstrated the highest accuracy score and f1-scores for both classes, making it the top performer. However, if interpretability is a priority, Logistic Regression also showed strong performance and might be a better option. Additionally, the logistic regression model was the fastest to train and predict, making it a good choice for time efficiency. Considering the trade-offs between accuracy, interpretability, and time efficiency, the logistic regression model could be a suitable option.
 
