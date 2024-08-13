@@ -6,7 +6,7 @@ Welcome to our project focused on assessing CO2 emissions from gasoline-powered 
 - [Objectives](#objectives)
 - [Models](#models)
 - [Dataset](#dataset)
-- [Performence](#performence)
+- [Performance](#performance)
   
 ## Objectives
 
@@ -29,7 +29,7 @@ $$\text{CO2 per km} = \frac{\text{CO2 per gallon}}{MPG}= \frac{8.887}{35.4}=251 
 ## Dataset
 Datasets provide model-specific fuel consumption ratings and estimated carbon dioxide emissions for new light-duty vehicles for retail sale in Canada <a href="https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64">Resource</a>.
 
-## Performence
+## Performance
 The accuracy score and time taken for training and prediction varies for each model, and the results are as follows:
 - Logistic regression: 98.65% and 0.05 seconds
 - Linear SVC: 97.88% and 0.83 seconds
